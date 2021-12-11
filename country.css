@@ -1,0 +1,37 @@
+body{
+    background-image:url(./world.jpg);
+    background-size:100%; 
+    background-repeat: no-repeat;
+    position: relative;
+
+    background-color: rgb(207, 168, 136);}
+
+
+
+
+.btn{
+    background-color: cyan;
+    color: rgb(8, 8, 1);
+   font-size: larger;
+   font-weight: 200px;
+   font-weight: bolder;
+  
+}
+
+h1{
+    font-size: larger;
+    font-style: oblique;
+    color: burlywood;
+}
+#country{
+    background-color: rgb(8, 14, 14);
+font-style: italic;
+font-size: large;
+font-weight: bold;
+text-align: center;
+border: darkcyan;
+background-color: rgb(210, 232, 233);
+color: rgb(38, 22, 189);
+border-radius: 25px;
+
+}
